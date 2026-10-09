@@ -1,0 +1,55 @@
+body{
+    background-color: #FFF8DC;
+}
+p{
+    color: #2F4F4F;
+}
+h1, h2, h3 {
+    color: tomato;
+}
+.kozep{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr{
+    width: 70%;
+}
+.kep1{
+    float: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 230px;
+    height: 153px;
+}
+.ee{
+  display: flex;
+  justify-content: center; 
+  align-items: center;  
+}
+.kep2{
+    float: right;
+    width: 230px;
+    height: 153px;
+}
+.tablazat{
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    border:
+}
+.cim{
+    text-align: center;
+    background-color: tomato;
+    color:cornsilk
+}
+.elsooszlop{
+    width: 240px;
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> 5264739714a9e286e4e068984d90c96a3c952249
